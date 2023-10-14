@@ -1,0 +1,25 @@
+.container__list {
+  width: 100%;
+}
+
+.list {
+  list-style: none;
+
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  gap: 5px;
+}
+
+.type {
+  background-color: rgba($color: #46d1b1, $alpha: 0.7);
+  color: white;
+  font-size: 12px;
+
+  padding: 5px 10px;
+  border-radius: 15px;
+  text-align: center;
+
+}
