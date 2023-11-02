@@ -6,7 +6,6 @@
 
 .card__number {
   text-align: right;
-  color: white;
   padding: 7px 10px 0px 0;
 }
 
@@ -21,13 +20,6 @@
   display: flex;
   padding: 7px;
   gap: 10px;
-}
-
-.detail__list-type {
-  padding-left: 10px;
-  display: flex;
-  list-style: none;
-  flex-wrap: wrap;
 }
 
 .detail__image {
